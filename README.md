@@ -1,6 +1,6 @@
 git的第一次使用
 # elmfrond
-git初始使用
+git的二次使用
 ## Project setup
 ```
 npm install
